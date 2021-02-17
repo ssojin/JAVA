@@ -2,6 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class 단지번호붙이기 {
+	//델타 이용
 	static int []dr = {-1,1,0,0};
 	static int []dc = {0,0,-1,1};
 	static int [][]map;
